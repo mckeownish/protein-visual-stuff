@@ -3,9 +3,7 @@ Collection of vmd scripts, mdanalysis python code and other helpful ways to visu
 
 ## VMD scripts
 
-### Loading structures 
-
-
+### Loading Style A 
 
 <img src=figures/styleA.png width="400" height="333">
 
