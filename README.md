@@ -7,7 +7,7 @@ Collection of vmd scripts, mdanalysis python code and other helpful ways to visu
 
 
 
-<img src=figures/styleA.png width="100" height="100">
+<img src=figures/styleA.png width="400" height="100">
 
 load_gro_trajectory.tcl usage: 
 ```
