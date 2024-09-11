@@ -5,7 +5,7 @@ Collection of vmd scripts, mdanalysis python code and other helpful ways to visu
 
 ### Loading structures 
 
-![Style A](figures/styleA.png)
+![Style A](figures/styleA.png | width=300)
 
 load_gro_trajectory.tcl usage: 
 ```
